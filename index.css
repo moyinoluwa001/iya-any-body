@@ -1,0 +1,63 @@
+.name{
+    background-color: red;
+}
+span{
+    background-color: blue ;
+}
+#box{
+    width: 1300px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 15px; 
+    text-align: center;
+    background-color: red;
+}
+body{
+    text-align: center;
+}
+ table{
+    width: 1200px;
+    height: 250px; 
+    border: 2px; 
+    text-align:center;
+ }
+ table, th, td {
+    border:1px solid black;
+    border-collapse:collapse ;
+  }
+  
+    
+  li{
+    display: inline;
+    margin: 0px 20px;
+    
+    padding: right;
+  }
+  nav{
+    background-color: antiquewhite;
+
+  }
+  .two{
+    background-color: darkblue;
+
+    
+  
+
+  }
+  .one{
+    text-align: right;
+  }
+  .may{
+    text-align: right;
+  }
+  .six{
+    text-align: left;
+  }
+  
+  
+  
+
+  
+
+  
+
